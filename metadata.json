@@ -1,0 +1,6 @@
+{
+  "name": "RBI MRM Compliance-as-Code Platform",
+  "description": "Institutional Banking Model Risk Management architecture enforcing upcoming RBI guidelines, automated corporate lending explainability, cross-border liquidity drift telemetry, and automated remediation workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
